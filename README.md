@@ -11,7 +11,7 @@ The prototype processes 400 LFP channels (visualized as an upsampled 20x20 grid)
 
 ## Demo
 Randomly choiced 400 channels as an example
-<!-- Replace with your GIF. Ensure 'analyzer_demo.gif' is in an 'assets' folder. -->
+
 <p align="center">
   <img src="./assets/analyzer_demo.gif" alt="LFP Analyzer Demo" width="700"/>
 </p>
